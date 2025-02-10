@@ -1,3 +1,5 @@
+Bob Walsh's Clone.
+
 # Jekyll Serif Theme
 
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
@@ -11,22 +13,22 @@ Serif is a modern business theme for Jekyll. It contains multiple content types 
 
 ### Theme features
 
-- Jekyll 4.2+
-- Netlify & Github Pages ready
-- Services (Collection)
-- Team (Collection)
-- Features (Data)
-- SCSS
-- 100% Responsive design, animated hamburger and mobile slide in menu
-- Bootstrap 4.6 - _Only the bootstrap grid and utilites are imported by default. If you want to use more of the Boostrap library you can uncomment the `@import` in `style.scss`_
-- 100/100 Google Lighthouse speed score
-- 100/100 Google Lighthouse seo score
-- 100/100 Google Lighthouse accessibility score
-- 100/100 Google Lighthouse best practices score
-- Under 50KB without images or 80KB with images and illustrations ⚡
-- Under 20KB without Google fonts ⚡⚡⚡
-- Robust example content included
-- Royalty free illustrations included
+-   Jekyll 4.2+
+-   Netlify & Github Pages ready
+-   Services (Collection)
+-   Team (Collection)
+-   Features (Data)
+-   SCSS
+-   100% Responsive design, animated hamburger and mobile slide in menu
+-   Bootstrap 4.6 - _Only the bootstrap grid and utilites are imported by default. If you want to use more of the Boostrap library you can uncomment the `@import` in `style.scss`_
+-   100/100 Google Lighthouse speed score
+-   100/100 Google Lighthouse seo score
+-   100/100 Google Lighthouse accessibility score
+-   100/100 Google Lighthouse best practices score
+-   Under 50KB without images or 80KB with images and illustrations ⚡
+-   Under 20KB without Google fonts ⚡⚡⚡
+-   Robust example content included
+-   Royalty free illustrations included
 
 ## Installation
 
@@ -74,30 +76,30 @@ For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would
 
 ### License
 
-- You cannot create ports of this theme
-- You cannot re-sell this theme
+-   You cannot create ports of this theme
+-   You cannot re-sell this theme
 
 ### Credits
 
-- Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
-- Stock images by Unsplash - https://unsplash.com/
-- Feature icons by Noun Project - https://thenounproject.com/
+-   Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
+-   Stock images by Unsplash - https://unsplash.com/
+-   Feature icons by Noun Project - https://thenounproject.com/
 
 ## Support My Work
 
 I've been building open source themes for all the main static site generators for over 4 years now. My premium themes allow me to continue to allocate time to maintain, improve and build new open source themes.
 
 1. Leave a star ⭐🙏🏻
-2. Make a contribution to this theme, add a feature, fix a bug, nothing is to small 
-2. Mention this theme on twitter [@zerostaticio](https://twitter.com/zerostaticio) 📢
-3. Purchase a premium theme 🔥
+2. Make a contribution to this theme, add a feature, fix a bug, nothing is to small
+3. Mention this theme on twitter [@zerostaticio](https://twitter.com/zerostaticio) 📢
+4. Purchase a premium theme 🔥
 
 ### All Jekyll Themes by Zerostatic
 
-- [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/)
-- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/)
-- [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/)
-- [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/)
-- [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/)
+-   [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/)
+-   [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/)
+-   [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/)
+-   [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/)
+-   [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/)
 
 🇦🇺 **Made in Australia** by Robert Austin
