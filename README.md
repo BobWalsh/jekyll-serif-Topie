@@ -1,6 +1,7 @@
-Bob Walsh's Clone. Monday; February 10, 2025 aaaaaaaaaaa
+gitBob Walsh's Clone. Monday; February 10, 2025 aaaaaaaaaaa
 
-<h1> Monday; February 10, 2025</h1>
+<h1> Monday; February 10, 2025,,
+Monday; February 10, 2025</h1>
 
 # Jekyll Serif Theme
 
